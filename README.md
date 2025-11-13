@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @maryam745
-- 👀 I’m interested in developing games and small applications.
-- 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm lazy 
+- 👋 Hi, I'm Maryam!
+
+- 🚀 Aspiring Developer passionate about creating interactive games and small-scale applications.
+- 💻 Currently learning Python and exploring new ways to turn ideas into functional projects.
+- 🤝 Open to collaboration on coding projects, especially those focused on learning and innovation.
+- 📩 Reach me at: [your email or LinkedIn link here]
+- ⚡ Fun fact: I code best when I’m “productively lazy” — finding the easiest way to get great results!
 
 <!---
 maryam745/maryam745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
