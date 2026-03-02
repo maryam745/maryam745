@@ -3,7 +3,7 @@
 - 🚀 Aspiring Developer passionate about creating interactive games and small-scale applications.
 - 💻 Currently learning Python and exploring new ways to turn ideas into functional projects.
 - 🤝 Open to collaboration on coding projects, especially those focused on learning and innovation.
-- 📩 Reach me at: [your email or LinkedIn link here]
+- 📩 Reach me at: info.maryamnazar@gmail.com
 - ⚡ Fun fact: I code best when I’m “productively lazy” — finding the easiest way to get great results!
 
 <!---
